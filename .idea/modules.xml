@@ -3,9 +3,15 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Minesweeper.iml" filepath="$PROJECT_DIR$/.idea/modules/Minesweeper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Find mistake/Minesweeper.Problems-Find_mistake.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Find mistake/Minesweeper.Problems-Find_mistake.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Find mistake/Minesweeper.Problems-Find_mistake.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Find mistake/Minesweeper.Problems-Find_mistake.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Find mistake/Minesweeper.Problems-Find_mistake.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Find mistake/Minesweeper.Problems-Find_mistake.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Parse url/Minesweeper.Problems-Parse_url.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Parse url/Minesweeper.Problems-Parse_url.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Parse url/Minesweeper.Problems-Parse_url.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Parse url/Minesweeper.Problems-Parse_url.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Parse url/Minesweeper.Problems-Parse_url.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Parse url/Minesweeper.Problems-Parse_url.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Publication and its subclasses/Minesweeper.Problems-Publication_and_its_subclasses.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Publication and its subclasses/Minesweeper.Problems-Publication_and_its_subclasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Publication and its subclasses/Minesweeper.Problems-Publication_and_its_subclasses.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Publication and its subclasses/Minesweeper.Problems-Publication_and_its_subclasses.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Publication and its subclasses/Minesweeper.Problems-Publication_and_its_subclasses.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Publication and its subclasses/Minesweeper.Problems-Publication_and_its_subclasses.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Minesweeper.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Minesweeper.util.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Minesweeper.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Minesweeper.util.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Minesweeper.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Minesweeper.util.test.iml" />
