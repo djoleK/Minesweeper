@@ -2,3 +2,6 @@ content:
 - Parse url
 - Find mistake
 - Publication and its subclasses
+- Mutable geometric shapes
+- Account Service
+- Compact strings with AsciiCharSequence
