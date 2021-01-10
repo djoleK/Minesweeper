@@ -5,3 +5,6 @@ content:
 - Mutable geometric shapes
 - Account Service
 - Compact strings with AsciiCharSequence
+- Correct the usage of non-generic class
+- Initialize an object of a generic class
+- Boxes are not just objects_
