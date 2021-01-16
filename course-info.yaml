@@ -7,5 +7,6 @@ summary: You played this game when the Internet cut off, didn’t you? It is tim
 programming_language: Java
 programming_language_version: 11
 content:
+- Minesweeper
 - Problems
 mode: Study
